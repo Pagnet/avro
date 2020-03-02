@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |s|
   s.name = "avro".freeze
-  s.version = "1.10.0.pre1"
+  s.version = "1.9.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2".freeze) if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib".freeze]
